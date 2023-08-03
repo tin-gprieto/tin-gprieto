@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Martin Gonzalez Prieto, i'm 22 years old and i'm a student of Software engineering in Facultad de Ingenieria de la Universidad de Buenos Aires, Argentina 🇦🇷 .
+My name is Martin Gonzalez Prieto, i'm 22 years old and i'm a student of Software engineering in Facultad de Ingenieria de la Universidad de Buenos Aires, Argentina 🇦🇷.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tin-gprieto&show_icons=true&theme=dracula\&rank_icon=github) 
 
