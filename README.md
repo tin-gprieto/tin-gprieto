@@ -4,7 +4,7 @@ My name is Martin Gonzalez Prieto, i'm 22 years old and i'm a student of Softwar
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tin-gprieto&show_icons=true&theme=dracula\&rank_icon=github) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tin-gprieto&hide_progress=true&theme=dracula)
 
 Contact: mgonzalezp@fi.uba.ar
 <!--
