@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tin-gprieto&show_icons=true&theme=dracula) 
+My name is Martin Gonzalez Prieto, i'm 22 years old and i'm a student of Software engineering in Facultad de Ingenieria de la Universidad de Buenos Aires, Argentina 🇦🇷 .
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tin-gprieto&show_icons=true&theme=dracula\&rank_icon=github) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+Contact: mgonzalezp@fi.uba.ar
 <!--
 **tin-gprieto/tin-gprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
